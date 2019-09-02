@@ -2,7 +2,7 @@
  * Filename: Centring.cs
  * Author: Qinbing Fu & Huatian Wang
  * Date: Sep 2019
- * Discription: Code for terrain following simluation to reproduce honeybee flight behaviours in "AVDM: Angular Velocity Decoding Model
+ * Discription: Code for tunnel centring simluation to reproduce honeybee flight behaviours in "AVDM: Angular Velocity Decoding Model
  * Accounting for Visually Guided Flight Behaviours of the Bee".
  */
 
