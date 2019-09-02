@@ -1,5 +1,5 @@
 ﻿/*
- * Filename: Trrain.cs
+ * Filename: terrain.cs
  * Author: Qinbing Fu & Huatian Wang
  * Date: Sep 2019
  * Discription: Code for terrain following simluation to reproduce honeybee flight behaviours in "AVDM: Angular Velocity Decoding Model
