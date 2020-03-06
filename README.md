@@ -1,5 +1,5 @@
 # AVDM_Unity
-Codes and Materials in Unity for "AVDM: Angular Velocity Decoding Model Accounting for Visually Guided Flight Behaviours of the Bee". 
+Codes and Materials in Unity for a angular velocity decoding model accounting for visually guided flight behaviours of the bee. 
 This project is for reproducing honeybee flight behaviours including tunnel centering and terrain following in Unity. 
 * Authors: Huatian Wang & Qinbing Fu
 * Date:  Sep 2019
